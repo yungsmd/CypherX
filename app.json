@@ -17,32 +17,32 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~ (Yes, it's like a secret agent code. Don’t mess it up!)",
-      "value": "",
+      "value": "XPLOADER-BOT:~fzIzhbLI#yTqO5zUivrVvMYWbVe4w9VlRa4SM7Y76UmVkwB2RdCM",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here (CypherX is cool, but feel free to name it something quirky!)",
-      "value": "CypherX",
+      "value": "oluthe",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
-      "value": "",
+      "value": "254768665454",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
-      "value": "",
+      "value": "oluthe",
       "required": true
     },
    "HEROKU_API_KEY": {
   "description": "Enter your Heroku API key here (Like a magic key that grants your bot superpowers on Heroku! Keep it safe, hero!)",
-  "value": "",
+  "value": "HRKU-22cf3c12-00c2-4a75-8e76-f022f84578b6",
   "required": false
    },
    "HEROKU_APP_NAME": {
   "description": "Enter the Heroku app name you've just entered above here (The identity of your bot in the Heroku universe!)",
-  "value": "",
+  "value": "oluthe23",
   "required": false
    },
     "TIMEZONE": {
