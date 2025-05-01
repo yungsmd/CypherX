@@ -17,7 +17,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~ (Yes, it's like a secret agent code. Don’t mess it up!)",
-      "value": "XPLOADER-BOT:~TmAhWSIK#3l_upYHnoW5BWxFHpinMFSAjO7-Zjn1xCDY7F5RLRgo",
+      "value": "",
       "required": false
     },
     "BOT_NAME": {
@@ -27,12 +27,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
-      "value": "",
+      "value": "254768665455",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here (Who’s the boss behind the scenes? Spoiler: It's you!)",
-      "value": "",
+      "value": "oluthe",
       "required": true
     },
    "HEROKU_API_KEY": {
