@@ -18,7 +18,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
-      "value": "",
+      "value": "254768665454",
       "required": true
     },
     "OWNER_NAME": {
